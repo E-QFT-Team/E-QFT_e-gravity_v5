@@ -2,8 +2,7 @@
 
 [![Version](https://img.shields.io/badge/version-5.0-blue.svg)](https://github.com/eqft-collaboration/egravity-v5)
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2025.XXXXX-red.svg)](https://arxiv.org/abs/2025.XXXXX)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.16642478-blue.svg)](https://doi.org/10.5281/zenodo.16642478)
 
 ## Overview
 
