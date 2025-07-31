@@ -10,7 +10,7 @@ authors:
   - name: "E-QFT Institute"
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.XXXXXXX
+    value: 10.5281/zenodo.16642478
 repository-code: "https://github.com/E-QFT-Team/E-QFT_e-gravity_v5"
 keywords:
   - quantum gravity
