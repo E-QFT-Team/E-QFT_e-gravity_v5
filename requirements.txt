@@ -1,0 +1,28 @@
+# E-QFT v5.0 Requirements
+# Python 3.8+ required
+
+# Core numerical libraries
+numpy>=1.20.0
+scipy>=1.7.0
+numba>=0.54.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Data storage
+h5py>=3.0.0
+
+# Optional but recommended
+joblib>=1.0.0  # For parallel processing
+tqdm>=4.62.0   # For progress bars
+
+# Development dependencies (optional)
+pytest>=6.2.0
+pytest-cov>=2.12.0
+black>=21.6b0
+flake8>=3.9.0
+
+# Documentation (optional)
+sphinx>=4.0.0
+sphinx-rtd-theme>=0.5.0
+nbsphinx>=0.8.0

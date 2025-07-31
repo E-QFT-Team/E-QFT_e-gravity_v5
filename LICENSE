@@ -1,0 +1,35 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 E-QFT Collaboration
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+ADDITIONAL TERMS FOR SCIENTIFIC SOFTWARE
+
+If you use this software in scientific publications, we request that you:
+
+1. Cite the original paper:
+   Barreiro, L. et al. (E-QFT Collaboration), "General Relativity as an 
+   Emergent Limit of Quantum Projector Fields", arXiv:2025.XXXXX (2025)
+
+2. Include a link to the software repository:
+   https://github.com/E-QFT-Team/E-QFT_e-gravity_v5
+
+3. Acknowledge the E-QFT Collaboration in your acknowledgments section
+
+These are requests, not legal requirements. The software is still fully
+open source under GPL-3.0 regardless of whether these requests are followed.

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "E-QFT v5.0: Full General Relativity from Emergent Quantum Field Theory"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Barreiro
+    given-names: Lionel
+    orcid: "https://orcid.org/0009-0000-1474-7699"
+    affiliation: "QFThttps://eqft-institute.org/"
+  - name: "E-QFT Institute"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.XXXXXXX
+repository-code: "https://github.com/E-QFT-Team/E-QFT_e-gravity_v5"
+keywords:
+  - quantum gravity
+  - emergent spacetime
+  - general relativity
+  - numerical relativity
+license: GPL-3.0
+version: 5.0
+date-released: 2025-01-30
