@@ -183,7 +183,7 @@ This project is licensed under GPL-3.0. See [LICENSE](LICENSE) for details.
 ## Contact
 
 - **Corresponding Author**: Lionel Barreiro (lionel.barreiro@eqft-institute.org)
-- **GitHub Issues**: https://github.com/E-QFT-Team/e-gravity-v5/issues
+- **GitHub Issues**: https://github.com/E-QFT-Team/E-QFT_e-gravity-v5/issues
 
 ## Acknowledgments
 
