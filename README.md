@@ -168,11 +168,7 @@ If you use this code, please cite:
 
 ```bibtex
 @article{EQFT2025,
-  title={General Relativity as an Emergent Limit of Quantum Projector Fields},
-  author={Barreiro, Lionel and others},
-  collaboration={E-QFT},
-  journal={arXiv preprint arXiv:2025.XXXXX},
-  year={2025}
+  Barreiro, L. (2025). Emergent Classical General Relativity from E-QFT Quantum Projector Fields (5.0). Zenodo. https://doi.org/10.5281/zenodo.16743665
 }
 ```
 
